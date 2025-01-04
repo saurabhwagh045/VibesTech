@@ -31,21 +31,20 @@ To run this project locally, follow these steps:
 
 3. **Install dependencies**:
    ```bash
-npm install
+   npm install
 
 4. **Start the development server**:
    ```bash
-npm start
+   npm start
 
 5.**Open your browser and go to**
- http://localhost:5173
+    http://localhost:5173
 
 ## Deployment ##
 This project is deployed on Vercel. You can easily deploy your own version by linking your GitHub repository to Vercel.
 
 Author: Saurabh Wagh
 Feel free to connect with me for feedback or questions!
-
 
 ### Notes:
 - Replace `https://github.com/your-username/vibes-tech.git` and `https://github.com/your-username` with your actual GitHub repository URL and profile link.

@@ -17,5 +17,41 @@ Vibes Tech is a modern, responsive website showcasing programs, campus gallery, 
 - **Frontend**: React, CSS
 - **Hosting**: Vercel
 
-## File Structure
+
+## Installation and Setup
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/saurabhwagh045/vibes-tech.git
+2. **Navigate to the project directory**:
+```bash
+cd vibes-tech
+
+3. **Install dependencies**:
+```bash
+npm install
+4. **Start the development server**:
+```bash
+npm start
+
+5.**Open your browser and go to**
+ http://localhost:5173
+
+## Deployment ##
+This project is deployed on Vercel. You can easily deploy your own version by linking your GitHub repository to Vercel.
+
+Author: Saurabh Wagh
+Feel free to connect with me for feedback or questions!
+
+
+### Notes:
+- Replace `https://github.com/your-username/vibes-tech.git` and `https://github.com/your-username` with your actual GitHub repository URL and profile link.
+- Add a `LICENSE` file if you wish to include a license.
+- If you have specific contributions or acknowledgments, include them accordingly.
+
+
+
+
 

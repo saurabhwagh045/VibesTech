@@ -26,14 +26,15 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/saurabhwagh045/vibes-tech.git
 2. **Navigate to the project directory**:
-```bash
-cd vibes-tech
+   ```bash
+   cd vibes-tech
 
 3. **Install dependencies**:
-```bash
+   ```bash
 npm install
+
 4. **Start the development server**:
-```bash
+   ```bash
 npm start
 
 5.**Open your browser and go to**

@@ -1,8 +1,21 @@
-# React + Vite
+# Vibes Tech
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Vibes Tech is a modern, responsive website showcasing programs, campus gallery, testimonials, and a contact section. It is built using React and styled with CSS. You can explore the live version [here](https://vibes-tech.vercel.app/).
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Navbar**: Easy navigation throughout the website.
+- **Hero Section**: Engaging introduction to your offerings.
+- **Programs Section**: Highlights the programs provided.
+- **Gallery Section**: Displays campus photos.
+- **Testimonials**: Feedback from students.
+- **Contact Section**: Simple way to get in touch.
+- **Responsive Design**: Optimized for all screen sizes.
+
+## Technology Stack
+
+- **Frontend**: React, CSS
+- **Hosting**: Vercel
+
+## File Structure
+

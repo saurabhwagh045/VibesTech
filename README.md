@@ -47,7 +47,6 @@ Author: Saurabh Wagh
 Feel free to connect with me for feedback or questions!
 
 ### Notes:
-- Replace `https://github.com/your-username/vibes-tech.git` and `https://github.com/your-username` with your actual GitHub repository URL and profile link.
 - Add a `LICENSE` file if you wish to include a license.
 - If you have specific contributions or acknowledgments, include them accordingly.
 
